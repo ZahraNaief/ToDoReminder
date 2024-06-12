@@ -1,0 +1,17 @@
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\bin\Debug\net8.0-windows\Assignment6abc.exe
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\bin\Debug\net8.0-windows\Assignment6abc.deps.json
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\bin\Debug\net8.0-windows\Assignment6abc.runtimeconfig.json
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\bin\Debug\net8.0-windows\Assignment6abc.dll
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\bin\Debug\net8.0-windows\Assignment6abc.pdb
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.csproj.GenerateResource.cache
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.AssemblyInfoInputs.cache
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.AssemblyInfo.cs
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.csproj.CoreCompileInputs.cache
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.dll
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\refint\Assignment6abc.dll
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.pdb
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.genruntimeconfig.cache
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\ref\Assignment6abc.dll
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.MainForm.resources
+C:\Users\khali\OneDrive\Documents\C#-Programming_Course\CSharpWorkSpace\Assignment6abc\obj\Debug\net8.0-windows\Assignment6abc.AboutBox1.resources
